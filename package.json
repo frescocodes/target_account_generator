@@ -1,7 +1,18 @@
 {
   "dependencies": {
+    "@octokit/auth-basic": "^1.4.8",
+    "@octokit/rest": "^18.0.12",
+    "chalk": "^4.1.0",
+    "clear": "^0.1.0",
+    "configstore": "^5.0.1",
+    "figlet": "^1.5.0",
+    "inquirer": "^7.3.3",
+    "lodash": "^4.17.20",
+    "minimist": "^1.2.5",
     "puppeteer": "^5.5.0",
-    "request": "^2.88.2"
+    "request": "^2.88.2",
+    "simple-git": "^2.31.0",
+    "touch": "^3.1.0"
   },
   "name": "target_account_generator",
   "version": "0.0.1",
