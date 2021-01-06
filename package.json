@@ -2,5 +2,13 @@
   "dependencies": {
     "puppeteer": "^5.5.0",
     "request": "^2.88.2"
-  }
+  },
+  "name": "target_account_generator",
+  "version": "0.0.1",
+  "description": "Automated account generation for Target",
+  "main": "index.js",
+  "repository": "https://github.com/frescocodes/target_account_generator.git",
+  "author": "iggylow1@gmail.com",
+  "license": "MIT",
+  "private": false
 }
