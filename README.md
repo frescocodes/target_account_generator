@@ -1,4 +1,5 @@
 # Target Account Generator
+By fresco#0001 on Discord
 
 ## Quickly generate multiple Target accounts with ease.
 
