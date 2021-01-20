@@ -11,10 +11,10 @@ This CLI tool will allow you to quickly generate as many Target accounts as you'
 2. Install [Node.js](https://nodejs.org/en/)
 3. Install [Yarn](https://classic.yarnpkg.com/en/docs/install/)
 4. Run `yarn install` inside the directory
-5. Run `node index.js`
-6. Copy paste your `proxies.txt` file to the root directory.
+5. Copy paste your `proxies.txt` file to the root directory.
     - It **must** be named `proxies.txt`
     - **must** follow `ip:port:password` format
+6. Run `node index.js`
 7. You should be prompted for your catch-all domain, this will save to `config.json` (ex: @viperrapper.xyz)
     - you do not have to include "@", but you must include the top level domain (.com, org, .xyz, etc)
 8. Give a number of accounts you would like to generate. 
